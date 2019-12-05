@@ -1,2 +1,3 @@
 def click():
-    pr
+    print("Click")
+    
