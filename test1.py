@@ -8,4 +8,7 @@ def click():
 if __name__ == '__main__':
     click()
     welcome()
+    click()
+    welcome()
+    
     
